@@ -1,1 +1,1 @@
-console.log("mergeTest");
+console.log("master");
